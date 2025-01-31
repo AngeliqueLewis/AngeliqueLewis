@@ -3,7 +3,7 @@
 ### <div align="center">I'm Angie, a full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on a Chat app for Metro Sisters Circle Tennis Club  
+- 🔭 I’m currently working on a website for Metro Sisters Circle Tennis Club  
   
 
 - 🌱 I’m currently learning SwiftUI and Firebase  
