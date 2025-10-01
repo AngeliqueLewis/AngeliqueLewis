@@ -1,12 +1,12 @@
 ![banner (1)](https://github.com/user-attachments/assets/d7723d52-2bf9-4406-aad7-ff05b2239bc3)
 
-### <div align="center">I'm Angie, a full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Angie, a Web developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on a website for Metro Sisters Circle Tennis Club  
+- 🔭 Develop(HER) Essentially I like building things, breaking things, and creating solutions along the way!  
   
 
-- 🌱 I’m currently learning SwiftUI and Firebase  
+- 🌱 I’m currently learning Nunjucks & 11ty  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
