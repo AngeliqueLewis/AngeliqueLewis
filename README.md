@@ -6,13 +6,13 @@
 - 🔭 Develop(HER) Essentially I like building things, breaking things, and creating solutions along the way!  
   
 
-- 🌱 I’m currently learning Nunjucks & 11ty  
+- 🌱 I’m currently working on automated testing and visual regression testing with Backstop & Nightwatch.js 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I love to play tennis!  
+- ⚡ Fun fact: Tennis is my favorite escape, leave your problems on the court!   
   
 
 <br/>  
