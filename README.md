@@ -6,7 +6,7 @@
 - 🔭 Develop(HER) Essentially I like building things, breaking things, and creating solutions along the way!  
   
 
-- 🌱 I’m currently working on automated testing and visual regression testing with Nunjucks & Chart.css
+- 🌱 I’m currently working on creating accessible data visualizations with Chart.css
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
