@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Angie, a Web developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Angelique, a Web developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 Develop(HER) Essentially I like building things, breaking things, and creating solutions along the way!  
