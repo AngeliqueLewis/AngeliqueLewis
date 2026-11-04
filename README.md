@@ -1,4 +1,3 @@
-![banner (1)](https://github.com/user-attachments/assets/d7723d52-2bf9-4406-aad7-ff05b2239bc3)
 
 ### <div align="center">I'm Angie, a Web developer 👨‍💻 working remotely since 2021 🚀</div>  
   
